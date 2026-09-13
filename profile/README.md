@@ -3,9 +3,9 @@
 # Discord Indonesia GitHub Organization
 <img align="right" src="./assets/thumbnail.png" width=150 alt="Discord ID Logo">
 
-Kami adalah **Discord Indonesia (Discord ID)**, komunitas terbuka yang berfokus pada pengembangan ekosistem Discord, penyediaan alat otomatisasi, serta infrastruktur pendukung bagi pengguna dan kreator di Indonesia.
+**Discord Indonesia [Discord ID]** is the largest Indonesian Discord community with 7,500+ active members. We bring people together to hang out, team up for gaming, stay ahead with the latest Discord feature leaks and updates, and get instant info to claim Discord Quest rewards.
 
-Membangun ekosistem yang solid melalui inovasi berbasis komunitas, efisiensi sistem, dan kolaborasi terbuka. Fokus kami adalah menyediakan solusi teknis yang andal dan mudah diakses oleh semua pengguna.
+Driven by an active core team of developers, moderators, and creators, we build open-source projects, organize community events, and foster a collaborative hub for everyone.
 
 ## Linked Media
 
