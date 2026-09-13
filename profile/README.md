@@ -7,6 +7,21 @@
 
 Driven by an active core team of developers, moderators, and creators, we build open-source projects, organize community events, and foster a collaborative hub for everyone.
 
+<table border="0">
+<tr>
+<td width="60%" valign="top">
+<h2>Discord Indonesia Community</h2>
+<p>Tempat paling pas buat kamu yang mau tetap up-to-date soal fitur Discord Indonesia klaim orbs reward discord quest dan mabar santai disini.</p>
+</ul>
+</td>
+<td width="40%" valign="top" align="center">
+<a href="https://discord.gg/HbZEEuj4KJ">
+<img src="https://discordapp.com/api/guilds/1419245943999692854/embed.png?style=banner3" alt="Discord Server">
+</a>
+</td>
+</tr>
+</table>
+
 ## Linked Media
 
 <div align="center">
